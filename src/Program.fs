@@ -1,7 +1,5 @@
 // open CsvHelper
-open FSharp.Data
 open System.IO
-open System
 open System.Net.Http
 open Oryx
 

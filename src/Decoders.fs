@@ -1,6 +1,5 @@
 namespace Challenge
 
-open Oryx.ThothJsonNet.ResponseReader
 open Thoth.Json.Net
 
 open Challenge.Logic
