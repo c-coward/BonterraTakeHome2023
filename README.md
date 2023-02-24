@@ -19,4 +19,4 @@ In `src/Program.fs`, modify line 14 to be the following:
 let key = "YOUR_CREDENTIALS_HERE"
 ```
 
-Finally, you can execute the project by running `dotnet run` from within the project directory. This will create or overwrite a file called `EmailReport.csv` in the same directory to contain the solution based on the problem description.
+Finally, you can build and execute the project by running `dotnet run` from within the project directory. This will create or overwrite a file called `EmailReport.csv` in the same directory to contain the solution based on the problem description.
